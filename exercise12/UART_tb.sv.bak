@@ -1,0 +1,10 @@
+module UART_tb();
+
+reg clk,rst_n;
+reg trmt,clr_rdy;
+reg [7:0] tx_data;
+
+wire transmit,tx_done,rdy;
+wire [7:0] rx_data;
+
+UART_tx iDUT(.clk(clk), .rst_n(rst_n), .trmt(trmt), .tx_data(tx_data), .TX(TX), .tx_done(tx_done));

@@ -1,0 +1,205 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/mabma/Documents/College_Classes/ECE_551/HW03
+vADC128S
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z1 !s110 1541439446
+!i10b 1
+!s100 lhE^bPB^IlkJ7fo<JUR8`0
+IHL8GcfGlinPQacUGW@^ko2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 ADC128S_sv_unit
+S1
+Z3 dC:/Users/mabma/Documents/College_Classes/ECE_551/HW04
+Z4 w1541170340
+8C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/ADC128S.sv
+FC:/Users/mabma/Documents/College_Classes/ECE_551/HW04/ADC128S.sv
+L0 1
+Z5 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z6 !s108 1541439446.000000
+!s107 C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/ADC128S.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/ADC128S.sv|
+!s101 -O0
+!i113 1
+Z7 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@a@d@c128@s
+vbalance_cntrl
+R0
+Z8 !s110 1540764743
+!i10b 1
+!s100 f`LXiLa?ON4`:Uoe_BX]W3
+IdYFb[DmD:4BZTz3`Z=J6S1
+R2
+!s105 balance_cntrl_sv_unit
+S1
+R3
+w1540764740
+8C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/balance_cntrl.sv
+FC:/Users/mabma/Documents/College_Classes/ECE_551/HW04/balance_cntrl.sv
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1540764742.000000
+!s107 C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/balance_cntrl.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/balance_cntrl.sv|
+!s101 -O0
+!i113 1
+R7
+vbalance_cntrl_dbg_tb
+R8
+!i10b 1
+!s100 E419R3FJO4UcCTz[?iUae3
+I^ngMGLf0fMAl?L0eNlf2a2
+R2
+R3
+w1540763914
+8C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/balance_cntrl_dbg_tb.v
+FC:/Users/mabma/Documents/College_Classes/ECE_551/HW04/balance_cntrl_dbg_tb.v
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1540764743.000000
+!s107 C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/balance_cntrl_dbg_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/balance_cntrl_dbg_tb.v|
+!s101 -O0
+!i113 1
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vSPI_ADC128S
+R0
+R1
+!i10b 1
+!s100 ;E62=i88@ghW83DU@9;CK1
+IeGJo9Mi3EX?42NJVF^Hfg1
+R2
+!s105 SPI_ADC128S_sv_unit
+S1
+R3
+R4
+8C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/SPI_ADC128S.sv
+FC:/Users/mabma/Documents/College_Classes/ECE_551/HW04/SPI_ADC128S.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/SPI_ADC128S.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/SPI_ADC128S.sv|
+!s101 -O0
+!i113 1
+R7
+n@s@p@i_@a@d@c128@s
+vSPI_mstr16
+R0
+Z9 !s110 1541439447
+!i10b 1
+!s100 BXDWhjDog947N8XGLNWc^0
+I2=P0Q]=[cH;d55OkG8GGk0
+R2
+!s105 SPI_mstr16_sv_unit
+S1
+R3
+w1541439437
+8C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/SPI_mstr16.sv
+FC:/Users/mabma/Documents/College_Classes/ECE_551/HW04/SPI_mstr16.sv
+L0 1
+R5
+r1
+!s85 0
+31
+Z10 !s108 1541439447.000000
+!s107 C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/SPI_mstr16.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/SPI_mstr16.sv|
+!s101 -O0
+!i113 1
+R7
+n@s@p@i_mstr16
+vSPI_mstr16_onComp
+R0
+!s110 1541439300
+!i10b 1
+!s100 2FE9JL3K:Cm?IT]=;NoBJ2
+I:if]Yb_CE1M?k]P6@;G?e2
+R2
+!s105 SPI_mstr16_onComp_sv_unit
+S1
+R3
+w1541438029
+8C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/SPI_mstr16_onComp.sv
+FC:/Users/mabma/Documents/College_Classes/ECE_551/HW04/SPI_mstr16_onComp.sv
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1541439300.000000
+!s107 C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/SPI_mstr16_onComp.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/SPI_mstr16_onComp.sv|
+!s101 -O0
+!i113 1
+R7
+n@s@p@i_mstr16_on@comp
+vSPI_mstr16_submitted
+R0
+R9
+!i10b 1
+!s100 Q03=Y25mh?HPmJG[3Phi@2
+ICZkGQGUzK7^<[:Od[@4aR2
+R2
+!s105 SPI_mstr16_submitted_sv_unit
+S1
+R3
+w1541439411
+8C:\Users\mabma\Documents\College_Classes\ECE_551\HW04\SPI_mstr16_submitted.sv
+FC:\Users\mabma\Documents\College_Classes\ECE_551\HW04\SPI_mstr16_submitted.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:\Users\mabma\Documents\College_Classes\ECE_551\HW04\SPI_mstr16_submitted.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\mabma\Documents\College_Classes\ECE_551\HW04\SPI_mstr16_submitted.sv|
+!s101 -O0
+!i113 1
+R7
+n@s@p@i_mstr16_submitted
+vSPI_mstr_16_tb
+R0
+R9
+!i10b 1
+!s100 TEY9l94VQ>8l5WoNQY2Bk1
+IKg]C1KedBl5TN8IXQ3T6f3
+R2
+!s105 SPI_mstr_16_tb_sv_unit
+S1
+R3
+w1541439434
+8C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/SPI_mstr_16_tb.sv
+FC:/Users/mabma/Documents/College_Classes/ECE_551/HW04/SPI_mstr_16_tb.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/SPI_mstr_16_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/SPI_mstr_16_tb.sv|
+!s101 -O0
+!i113 1
+R7
+n@s@p@i_mstr_16_tb

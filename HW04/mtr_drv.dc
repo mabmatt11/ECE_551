@@ -1,0 +1,61 @@
+###################################
+# read in the verilog files first #
+###################################
+
+read_file -format verilog { ./mtr_drv.sv }
+
+###################################
+# Set current design to top level #
+###################################
+
+set current_design mtr_drv
+
+###################################
+# Constrain and assign clock      #
+###################################
+
+create_clock -name "clk" -period 2 -waveform {0 1} clk
+set_dont_touch_network [find port clk]
+
+###################################
+# Constrain input timings $ drive #
+###################################
+
+set prim_inputs [remove_from_collection [all_inputs] [find port clk]]
+set_input_delay -clock clk 0.7 $prim_inputs
+set prim_inputs_2 [remove_from_collection $prim_inputs [find port rst_n]]
+set_driving_cell -lib_cell ND2D2BWP -from_pin A1 $prim_inputs_2
+
+###################################
+# Constrain output timing & loads #
+###################################
+
+set_output_delay -clock clk 0.55 [all_outputs]
+set_load 0.15 [all_outputs]
+
+###################################
+# Set wireload & transition time  #
+###################################
+
+set_wire_load_model -name TSMC32K_Lowk_Conservative
+set_max_transition 0.1 [current_design]
+
+###################################
+# Compile the design              #
+###################################
+
+compile -map_effort medium
+
+##################################
+# Generate timing & area reports #
+##################################
+
+report_timing -delay max
+report_timing -delay min 
+report_area > mtr_drv_area.txt
+
+###########################################
+# write out resulting synthesized netlist #
+###########################################
+
+write -format verilog mtr_drv -output mtr_drv.vg

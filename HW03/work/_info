@@ -1,0 +1,85 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/mabma/Documents/College_Classes/ECE_551/HW03
+vUART_rcv
+Z1 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z2 !s110 1539622988
+!i10b 1
+!s100 ?:mZzJ;m`Qzn480M8ffI@3
+IRTJ=NJ;NiAIDBXXV[cZ5A1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 UART_rcv_sv_unit
+S1
+R0
+w1539622929
+8C:\Users\mabma\Documents\College_Classes\ECE_551\HW03\UART_rcv.sv
+FC:\Users\mabma\Documents\College_Classes\ECE_551\HW03\UART_rcv.sv
+L0 1
+Z4 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z5 !s108 1539622988.000000
+!s107 C:\Users\mabma\Documents\College_Classes\ECE_551\HW03\UART_rcv.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\mabma\Documents\College_Classes\ECE_551\HW03\UART_rcv.sv|
+!s101 -O0
+!i113 1
+Z6 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@u@a@r@t_rcv
+vUART_tb
+R1
+!s110 1539622989
+!i10b 1
+!s100 GWNQGM]IZL1L83XRgQNY[3
+IPahfWPKc[>odgT1f?WcBY0
+R3
+!s105 UART_tb_sv_unit
+S1
+R0
+w1539621841
+8C:/Users/mabma/Documents/College_Classes/ECE_551/HW03/UART_tb.sv
+FC:/Users/mabma/Documents/College_Classes/ECE_551/HW03/UART_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1539622989.000000
+!s107 C:/Users/mabma/Documents/College_Classes/ECE_551/HW03/UART_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College_Classes/ECE_551/HW03/UART_tb.sv|
+!s101 -O0
+!i113 1
+R6
+n@u@a@r@t_tb
+vUART_tx
+R1
+R2
+!i10b 1
+!s100 :kd8EdlAD_9OH:B5N7]zl0
+I4]5WR?b>6QD[]EJZB28:M2
+R3
+!s105 UART_tx_sv_unit
+S1
+R0
+w1539622980
+8C:/Users/mabma/Documents/College_Classes/ECE_551/HW03/UART_tx.sv
+FC:/Users/mabma/Documents/College_Classes/ECE_551/HW03/UART_tx.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mabma/Documents/College_Classes/ECE_551/HW03/UART_tx.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College_Classes/ECE_551/HW03/UART_tx.sv|
+!s101 -O0
+!i113 1
+R6
+n@u@a@r@t_tx

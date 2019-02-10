@@ -1,0 +1,8 @@
+{C:/Users/mabma/Documents/College Classes/ECE 551/exercise01/counter.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mabma/Documents/College Classes/ECE 551/exercise01/counter.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}}

@@ -1,0 +1,9 @@
+**/work/*
+*.wlf
+*.mpf
+*.mti
+*.vg
+*.rpt
+*.svf
+*.log
+.nfs*

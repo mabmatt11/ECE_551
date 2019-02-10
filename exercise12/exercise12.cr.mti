@@ -1,0 +1,22 @@
+C:/Users/mabma/Documents/College_Classes/ECE_551/HW03/UART_rcv.sv {1 {vlog -work work -sv -stats=none {C:\Users\mabma\Documents\College_Classes\ECE_551\HW03\UART_rcv.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module UART_tx
+
+Top level modules:
+	UART_tx
+
+} {} {}} C:/Users/mabma/Documents/College_Classes/ECE_551/exercise12/UART_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/mabma/Documents/College_Classes/ECE_551/exercise12/UART_tb.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module UART_tb
+
+Top level modules:
+	UART_tb
+
+} {} {}} C:/Users/mabma/Documents/College_Classes/ECE_551/HW03/UART_tx.sv {1 {vlog -work work -sv -stats=none C:/Users/mabma/Documents/College_Classes/ECE_551/HW03/UART_tx.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module UART_tx
+
+Top level modules:
+	UART_tx
+
+} {} {}}

@@ -1,0 +1,15 @@
+{C:/Users/mabma/Documents/College Classes/ECE 551/exercise02/synch_detect_tb.v} {1 {vlog -work work -stats=none {C:/Users/mabma/Documents/College Classes/ECE 551/exercise02/synch_detect_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module synch_detect_tb
+
+Top level modules:
+	synch_detect_tb
+
+} {} {}} {C:/Users/mabma/Documents/College Classes/ECE 551/exercise02/dff.v} {1 {vlog -work work -stats=none {C:/Users/mabma/Documents/College Classes/ECE 551/exercise02/dff.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module dff
+
+Top level modules:
+	dff
+
+} {} {}}

@@ -1,0 +1,55 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+vcounter
+DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+!s110 1536595918
+!i10b 1
+!s100 TFDZ]9Ro=mCjXLOACddZz1
+IkiOm01=Bb>;;Zn4b3kUR^2
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+!s105 counter_sv_unit
+S1
+Z1 dC:/Users/mabma/Documents/College Classes/ECE 551/exercise01
+w1536266527
+8C:/Users/mabma/Documents/College Classes/ECE 551/exercise01/counter.sv
+FC:/Users/mabma/Documents/College Classes/ECE 551/exercise01/counter.sv
+L0 1
+Z2 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1536595918.000000
+!s107 C:/Users/mabma/Documents/College Classes/ECE 551/exercise01/counter.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College Classes/ECE 551/exercise01/counter.sv|
+!s101 -O0
+!i113 1
+o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vup_dwn_tb
+!s110 1536266543
+!i10b 1
+!s100 bKK7iaMNb<U^h6SWO?f642
+ILnDNVH<;Zhk3iHQElm_JJ0
+R0
+R1
+w1536266289
+8C:/Users/mabma/Documents/College Classes/ECE 551/exercise01/counter_tb.v
+FC:/Users/mabma/Documents/College Classes/ECE 551/exercise01/counter_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1536266543.000000
+!s107 C:/Users/mabma/Documents/College Classes/ECE 551/exercise01/counter_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mabma/Documents/College Classes/ECE 551/exercise01/counter_tb.v|
+!s101 -O0
+!i113 1
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0

@@ -1,0 +1,8 @@
+a) The LSM6DS3H inertial sensor has the flexability of being able to select whether the user wants to use SPI or I2C interface with the main processor.
+
+b) The gyro outputs angular rate.
+
+c) Yes, it supports many different output data rates. The closest one to 400 is 416 Hz.
+
+d) If the device is SPI interface enabled, we know there is data about to be transmitted when the CS pin goes from high to low. This data is done transmitting when this CS pin goes back high.
+   If the device is I2C interface enabeld, we know there is a start condition when the data line transitions from high to low and the SCL line is held high. After this has been transmitted the next byte of data is the address of the slave.

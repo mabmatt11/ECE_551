@@ -1,0 +1,38 @@
+{C:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again/ece551-exercise21-master/src/inert_intf.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again/ece551-exercise21-master/src/inert_intf.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module inert_intf
+
+Top level modules:
+	inert_intf
+
+} {} {}} {C:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again/ece551-exercise21-master/src/inertial_integrator.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again/ece551-exercise21-master/src/inertial_integrator.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module inertial_integrator
+
+Top level modules:
+	inertial_integrator
+
+} {} {}} {C:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again/ece551-exercise21-master/src/inert_intf_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again/ece551-exercise21-master/src/inert_intf_tb.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module inert_intf_tb
+
+Top level modules:
+	inert_intf_tb
+
+} {} {}} {C:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again/ece551-exercise21-master/src/SPI_mstr16.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again/ece551-exercise21-master/src/SPI_mstr16.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SPI_mstr16
+
+Top level modules:
+	SPI_mstr16
+
+} {} {}} {C:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again/ece551-exercise21-master/src/SegwayModel.sv} {2 {vlog -work work -sv -stats=none {C:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again/ece551-exercise21-master/src/SegwayModel.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SegwayModel
+** Warning: C:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again/ece551-exercise21-master/src/SegwayModel.sv(139): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	SegwayModel
+
+} {} {}}

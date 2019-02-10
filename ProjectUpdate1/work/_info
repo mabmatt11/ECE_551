@@ -1,0 +1,618 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+vA2D_Intf
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z1 !s110 1544061049
+!i10b 1
+!s100 <A20??[V]KFQQGHgXOg^80
+I9SZW04f28nOdAS:6M@Df>3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 A2D_Intf_sv_unit
+S1
+Z3 dC:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1
+Z4 w1544028490
+8C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/A2D_Intf.sv
+FC:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/A2D_Intf.sv
+L0 1
+Z5 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z6 !s108 1544061049.000000
+!s107 C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/A2D_Intf.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/A2D_Intf.sv|
+!s101 -O0
+!i113 1
+Z7 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@a2@d_@intf
+vADC128S
+R0
+R1
+!i10b 1
+!s100 lhE^bPB^IlkJ7fo<JUR8`0
+IcAR905gXoX7YYT>=KOSHa3
+R2
+!s105 ADC128S_sv_unit
+S1
+R3
+R4
+8C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/ADC128S.sv
+FC:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/ADC128S.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/ADC128S.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/ADC128S.sv|
+!s101 -O0
+!i113 1
+R7
+n@a@d@c128@s
+vAuth_blk
+R0
+R1
+!i10b 1
+!s100 nUkfiF>HF26Rn[8oJ8=:m2
+IVd9LgBKoRa?5VT;W?8>6a0
+R2
+!s105 Auth_blk_sv_unit
+S1
+R3
+R4
+8C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/Auth_blk.sv
+FC:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/Auth_blk.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/Auth_blk.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/Auth_blk.sv|
+!s101 -O0
+!i113 1
+R7
+n@auth_blk
+vbalance_cntrl
+R0
+R1
+!i10b 1
+!s100 YLAQWZgJSTWe?K@d>;eDA1
+I]AEbJjIgbfiNn8;YDIgc32
+R2
+!s105 balance_cntrl_sv_unit
+S1
+R3
+R4
+8C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/balance_cntrl.sv
+FC:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/balance_cntrl.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/balance_cntrl.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/balance_cntrl.sv|
+!s101 -O0
+!i113 1
+R7
+vbalance_cntrl_chk_tb
+R1
+!i10b 1
+!s100 SZ8Co[dMF_NCBRj3gaI4j3
+IT4TdHIE5XS]AMAi[UOb;60
+R2
+R3
+R4
+8C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/balance_cntrl_chk_tb.v
+FC:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/balance_cntrl_chk_tb.v
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/balance_cntrl_chk_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/balance_cntrl_chk_tb.v|
+!s101 -O0
+!i113 1
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vcounter
+R0
+Z9 !s110 1544061050
+!i10b 1
+!s100 gCzMc4VBTiB0Ri05X9AgP3
+ITX>Bbncb1nKg:>>6On[>o1
+R2
+Z10 !s105 PWM11_sv_unit
+S1
+R3
+R4
+Z11 8C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/PWM11.sv
+Z12 FC:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/PWM11.sv
+L0 21
+R5
+r1
+!s85 0
+31
+Z13 !s108 1544061050.000000
+Z14 !s107 C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/PWM11.sv|
+Z15 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/PWM11.sv|
+!s101 -O0
+!i113 1
+R7
+vinert_intf
+R0
+R1
+!i10b 1
+!s100 WMZ_G5:HkWR9WMCRRHXO[1
+I?8>QoAG=hMc8l=BGC=KN`2
+R2
+!s105 inert_intf_sv_unit
+S1
+R3
+R4
+8C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/inert_intf.sv
+FC:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/inert_intf.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/inert_intf.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/inert_intf.sv|
+!s101 -O0
+!i113 1
+R7
+vinertial_integrator
+R0
+R9
+!i10b 1
+!s100 B39<NgSjlfWzfI;4zA5f^2
+IH=QEghk6kP9`]n@[jmna01
+R2
+!s105 inertial_integrator_sv_unit
+S1
+R3
+R4
+8C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/inertial_integrator.sv
+FC:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/inertial_integrator.sv
+L0 6
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/inertial_integrator.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/inertial_integrator.sv|
+!s101 -O0
+!i113 1
+R7
+vinertial_integrator_tb
+R0
+R9
+!i10b 1
+!s100 `mRh@`2DYQM8Z]A:<d=iG1
+Ief=8cgkgNhOQS;L15FRHm0
+R2
+!s105 inertial_integrator_tb_sv_unit
+S1
+R3
+R4
+8C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/inertial_integrator_tb.sv
+FC:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/inertial_integrator_tb.sv
+L0 6
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/inertial_integrator_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/inertial_integrator_tb.sv|
+!s101 -O0
+!i113 1
+R7
+vmtr_drv
+R0
+R9
+!i10b 1
+!s100 Ro7O]UKDT=EaH]45LV8NU1
+I1D[iL3CQ?bJmDIBLKIn5_2
+R2
+!s105 mtr_drv_sv_unit
+S1
+R3
+R4
+8C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/mtr_drv.sv
+FC:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/mtr_drv.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/mtr_drv.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/mtr_drv.sv|
+!s101 -O0
+!i113 1
+R7
+vPB_release
+R0
+R9
+!i10b 1
+!s100 jff3DP<Mn>VX0;efg<oT>2
+I]7ESgF[VVFNe;IaBWm4IF0
+R2
+!s105 PB_release_sv_unit
+S1
+R3
+R4
+8C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/PB_release.sv
+FC:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/PB_release.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/PB_release.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/PB_release.sv|
+!s101 -O0
+!i113 1
+R7
+n@p@b_release
+vpiezo
+R0
+R9
+!i10b 1
+!s100 jW1QkH6LC;j87<>WYZ<992
+IA=:NPRMnIQ?>_KgoAl_L@1
+R2
+!s105 piezo_sv_unit
+S1
+R3
+R4
+8C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/piezo.sv
+FC:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/piezo.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/piezo.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/piezo.sv|
+!s101 -O0
+!i113 1
+R7
+vPWM11
+R0
+R9
+!i10b 1
+!s100 JJcH6lW18[azciCoRiW:e1
+IoHj0BHT3RK3`D=Z@Tn1<T0
+R2
+R10
+S1
+R3
+R4
+R11
+R12
+L0 1
+R5
+r1
+!s85 0
+31
+R13
+R14
+R15
+!s101 -O0
+!i113 1
+R7
+n@p@w@m11
+vrs_flop
+R0
+R9
+!i10b 1
+!s100 6Yl`<0:^oUHFRC?IBj8?g3
+I2SE<N1993[c7hm?U4dP9z3
+R2
+R10
+S1
+R3
+R4
+R11
+R12
+L0 36
+R5
+r1
+!s85 0
+31
+R13
+R14
+R15
+!s101 -O0
+!i113 1
+R7
+vrst_synch
+R0
+R9
+!i10b 1
+!s100 hFcSkBhA1@0CalOZdZ[::0
+IZ@BNd5>bY>cikLRPOIGh_1
+R2
+!s105 rst_synch_sv_unit
+S1
+R3
+R4
+8C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/rst_synch.sv
+FC:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/rst_synch.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/rst_synch.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/rst_synch.sv|
+!s101 -O0
+!i113 1
+R7
+vSegway
+Z16 !s110 1544061051
+!i10b 1
+!s100 h1ZfM<>KnJV0eRZQ`>?Di2
+IGPdeeF_i^:nWa1]BWK>og2
+R2
+R3
+R4
+8C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/Segway.v
+FC:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/Segway.v
+L0 1
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/Segway.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/Segway.v|
+!s101 -O0
+!i113 1
+R8
+n@segway
+vSegway_tb
+R0
+R16
+!i10b 1
+!s100 E4i=M@jFOl>K^RJHj0_c12
+I7BWDojl_LFUX_^c=Q]=8O1
+R2
+!s105 Segway_tb_sv_unit
+S1
+R3
+w1544061021
+8C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/Segway_tb.sv
+FC:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/Segway_tb.sv
+L0 1
+R5
+r1
+!s85 0
+31
+Z17 !s108 1544061051.000000
+!s107 C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/Segway_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/Segway_tb.sv|
+!s101 -O0
+!i113 1
+R7
+n@segway_tb
+vSegwayModel
+R0
+R16
+!i10b 1
+!s100 ACM53l]eDi_C?JXi]4ia?3
+Ij;;;NSh`RmPX<nA_UBjCO0
+R2
+!s105 SegwayModel_sv_unit
+S1
+R3
+R4
+8C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/SegwayModel.sv
+FC:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/SegwayModel.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/SegwayModel.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/SegwayModel.sv|
+!s101 -O0
+!i113 1
+R7
+n@segway@model
+vSPI_ADC128S
+R0
+R16
+!i10b 1
+!s100 ;E62=i88@ghW83DU@9;CK1
+I^Pmm`JkI2Cl;Y;OjWSI?93
+R2
+!s105 SPI_ADC128S_sv_unit
+S1
+R3
+R4
+8C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/SPI_ADC128S.sv
+FC:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/SPI_ADC128S.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/SPI_ADC128S.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/SPI_ADC128S.sv|
+!s101 -O0
+!i113 1
+R7
+n@s@p@i_@a@d@c128@s
+vSPI_mst_16_tb
+R0
+R16
+!i10b 1
+!s100 7Z`8ZRRM2bPI=YOT<^<Bl0
+IMec6Q1JfSgfeP_Vfc^OoJ0
+R2
+!s105 SPI_mstr_16_tb_sv_unit
+S1
+R3
+R4
+8C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/SPI_mstr_16_tb.sv
+FC:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/SPI_mstr_16_tb.sv
+L0 2
+R5
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/SPI_mstr_16_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/SPI_mstr_16_tb.sv|
+!s101 -O0
+!i113 1
+R7
+n@s@p@i_mst_16_tb
+vSPI_mstr16
+R0
+R16
+!i10b 1
+!s100 4K]lC@3B<ahm1=;>85Dez1
+I3ag;oU73Yj:_JiI@oW:@k0
+R2
+!s105 SPI_mstr16_sv_unit
+S1
+R3
+R4
+8C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/SPI_mstr16.sv
+FC:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/SPI_mstr16.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/SPI_mstr16.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/SPI_mstr16.sv|
+!s101 -O0
+!i113 1
+R7
+n@s@p@i_mstr16
+vsteer_en
+R0
+R16
+!i10b 1
+!s100 WT7JShZiV`R48z2iJghf<3
+IPYl7^2fd91cLCo5[0oBOF0
+R2
+!s105 steer_en_sv_unit
+S1
+R3
+w1544059900
+8C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/steer_en.sv
+FC:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/steer_en.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/steer_en.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/steer_en.sv|
+!s101 -O0
+!i113 1
+R7
+vsteer_en_SM
+R0
+Z18 !s110 1544061052
+!i10b 1
+!s100 moDW=LaJm`7;WD[nD5L8B0
+IX2Bj0o7C5]0gSWK_`cXkf3
+R2
+!s105 steer_en_SM_sv_unit
+S1
+R3
+w1544058915
+8C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/steer_en_SM.sv
+FC:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/steer_en_SM.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/steer_en_SM.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/steer_en_SM.sv|
+!s101 -O0
+!i113 1
+R7
+nsteer_en_@s@m
+vUART_rcv
+R0
+R18
+!i10b 1
+!s100 >8gdCC<d2cS60=foRLNkI0
+I=9z6j:5[T90VVlfcV[BCi2
+R2
+!s105 UART_rcv_sv_unit
+S1
+R3
+R4
+8C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/UART_rcv.sv
+FC:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/UART_rcv.sv
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1544061052.000000
+!s107 C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/UART_rcv.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/UART_rcv.sv|
+!s101 -O0
+!i113 1
+R7
+n@u@a@r@t_rcv
+vUART_tx
+R0
+!s110 1544061048
+!i10b 1
+!s100 :a[7?fZoHod@43<WZY<ac1
+IcT4li_hegmM=TTA<Z1ZT[2
+R2
+!s105 UART_tx_sv_unit
+S1
+R3
+R4
+8C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/UART_tx.sv
+FC:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/UART_tx.sv
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1544061048.000000
+!s107 C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/UART_tx.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate1/ece551-project-master/src/UART_tx.sv|
+!s101 -O0
+!i113 1
+R7
+n@u@a@r@t_tx

@@ -1,0 +1,132 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/mabma/Documents/College Classes/ECE_551/ProjectUpdate2
+vinert_intf
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z1 !s110 1544293117
+!i10b 1
+!s100 Y>WVkQ3O0BTf@UJOV_Y?L2
+IAz7LO^hNeJCL;CbE3@93V3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 inert_intf_sv_unit
+S1
+Z3 dC:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again
+Z4 w1543595938
+8C:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again/ece551-exercise21-master/src/inert_intf.sv
+FC:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again/ece551-exercise21-master/src/inert_intf.sv
+L0 1
+Z5 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z6 !s108 1544293117.000000
+!s107 C:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again/ece551-exercise21-master/src/inert_intf.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again/ece551-exercise21-master/src/inert_intf.sv|
+!s101 -O0
+!i113 1
+Z7 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vinert_intf_tb
+R0
+R1
+!i10b 1
+!s100 9aHPS1[;@<a9O=P3Jf@KW2
+IEik4MZ[ITUCTTWOg@nKom0
+R2
+!s105 inert_intf_tb_sv_unit
+S1
+R3
+R4
+8C:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again/ece551-exercise21-master/src/inert_intf_tb.sv
+FC:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again/ece551-exercise21-master/src/inert_intf_tb.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again/ece551-exercise21-master/src/inert_intf_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again/ece551-exercise21-master/src/inert_intf_tb.sv|
+!s101 -O0
+!i113 1
+R7
+vinertial_integrator
+R0
+R1
+!i10b 1
+!s100 SB<a_VhNF8nB8HiQ^lR:b1
+I:5WIaa39fAhNm<JNN2zbL3
+R2
+!s105 inertial_integrator_sv_unit
+S1
+R3
+R4
+8C:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again/ece551-exercise21-master/src/inertial_integrator.sv
+FC:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again/ece551-exercise21-master/src/inertial_integrator.sv
+L0 6
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again/ece551-exercise21-master/src/inertial_integrator.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again/ece551-exercise21-master/src/inertial_integrator.sv|
+!s101 -O0
+!i113 1
+R7
+vSegwayModel
+R0
+R1
+!i10b 1
+!s100 ^XPDXPPC?dhUYVaYWzWc:3
+IUUzJU?P0?bIO_;NAI<7_X0
+R2
+!s105 SegwayModel_sv_unit
+S1
+R3
+R4
+8C:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again/ece551-exercise21-master/src/SegwayModel.sv
+FC:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again/ece551-exercise21-master/src/SegwayModel.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again/ece551-exercise21-master/src/SegwayModel.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again/ece551-exercise21-master/src/SegwayModel.sv|
+!s101 -O0
+!i113 1
+R7
+n@segway@model
+vSPI_mstr16
+R0
+R1
+!i10b 1
+!s100 4QU3hz8h6RlPG2?oAlEO32
+IkT1KDl@V>3SDBjm_ihJPM2
+R2
+!s105 SPI_mstr16_sv_unit
+S1
+R3
+R4
+8C:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again/ece551-exercise21-master/src/SPI_mstr16.sv
+FC:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again/ece551-exercise21-master/src/SPI_mstr16.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again/ece551-exercise21-master/src/SPI_mstr16.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mabma/Documents/College Classes/ECE_551/exercise21-again/ece551-exercise21-master/src/SPI_mstr16.sv|
+!s101 -O0
+!i113 1
+R7
+n@s@p@i_mstr16

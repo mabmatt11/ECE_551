@@ -1,0 +1,18 @@
+module tri_state_flip_flop(Q, clk, D);
+
+input clk;
+input D;
+output Q;
+wire md,mq,sd,clk_n;
+
+not (clk_n,clk);
+
+notif1 #1 (md,D,clk);
+not (mq,md);
+not (weak0,weak1) (md,mq);
+
+notif1 #1 (sd,mq,clk_n);
+not (Q,sd);
+not (weak0,weak1) (sd,Q);
+
+endmodule

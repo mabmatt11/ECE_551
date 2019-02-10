@@ -1,0 +1,43 @@
+C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/SPI_mstr16_onComp.sv {1 {vlog -work work -sv -stats=none C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/SPI_mstr16_onComp.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SPI_mstr16_onComp
+
+Top level modules:
+	SPI_mstr16_onComp
+
+} {} {}} C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/SPI_mstr16_submitted.sv {1 {vlog -work work -sv -stats=none {C:\Users\mabma\Documents\College_Classes\ECE_551\HW04\SPI_mstr16_submitted.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SPI_mstr16_submitted
+
+Top level modules:
+	SPI_mstr16_submitted
+
+} {} {}} C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/SPI_mstr_16_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/SPI_mstr_16_tb.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SPI_mstr_16_tb
+
+Top level modules:
+	SPI_mstr_16_tb
+
+} {} {}} C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/SPI_mstr16.sv {1 {vlog -work work -sv -stats=none C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/SPI_mstr16.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SPI_mstr16
+
+Top level modules:
+	SPI_mstr16
+
+} {} {}} C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/SPI_ADC128S.sv {1 {vlog -work work -sv -stats=none C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/SPI_ADC128S.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SPI_ADC128S
+
+Top level modules:
+	SPI_ADC128S
+
+} {} {}} C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/ADC128S.sv {1 {vlog -work work -sv -stats=none C:/Users/mabma/Documents/College_Classes/ECE_551/HW04/ADC128S.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ADC128S
+
+Top level modules:
+	ADC128S
+
+} {} {}}

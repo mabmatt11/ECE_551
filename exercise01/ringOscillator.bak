@@ -1,0 +1,11 @@
+module ringOscillator(Z,en)
+
+	input en;
+	output Z;
+	wire n1,n2;
+
+	nand02d1 A1(n1,en,Z);
+	inv01d1	I1(n2,n1);
+	inv01d1 I2(Z,n2);
+
+endmodule

@@ -1,0 +1,19 @@
+{C:/Users/mabma/Documents/College Classes/ECE 551/HW02/saturate_tb.v} {1 {vlog -work work -stats=none {C:/Users/mabma/Documents/College Classes/ECE 551/HW02/saturate_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module saturate_tb
+
+Top level modules:
+	saturate_tb
+
+} {} {}} {C:/Users/mabma/Documents/College Classes/ECE 551/HW02/saturate.v} {2 {vlog -work work -stats=none {C:/Users/mabma/Documents/College Classes/ECE 551/HW02/saturate.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module saturate
+** Warning: C:/Users/mabma/Documents/College Classes/ECE 551/HW02/saturate.v(10): (vlog-2697) MSB of part-select into 'unsigned_err_sat' is out of bounds.
+
+** Warning: C:/Users/mabma/Documents/College Classes/ECE 551/HW02/saturate.v(10): (vlog-2697) LSB of part-select into 'unsigned_err_sat' is out of bounds.
+
+
+Top level modules:
+	saturate
+
+} {} {}}
